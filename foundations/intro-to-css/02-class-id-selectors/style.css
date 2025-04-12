@@ -1,0 +1,21 @@
+.red-pink {
+    background-color: rgb(246, 136, 136);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.fontsize {
+    font-size: 36px;
+}
+
+.medium{
+    font-size: 24px;
+}
+
+#second-div {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+#first-div {
+    color: blue;
+}
